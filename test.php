@@ -12,5 +12,6 @@ $total=$a+$b;
 </head>
 <body>
     <h1><?=$total?></h1>
+    <h3>Hello</h3>
 </body>
 </html>
